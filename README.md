@@ -9,3 +9,4 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 # ScrollReveal.org
+# https://www.kunkalabs.com/mixitup/docs/get-started/
