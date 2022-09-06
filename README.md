@@ -1,5 +1,5 @@
 ### 🔥 About Responsive Portfolio Website
-# 🔥 Responsive Portfolio Website Seema
+# 🔥 Responsive Portfolio Website of My Introduction
 
 # Used boxicons.com to import icons for portfolio websites
 - Responsive Portfolio Website Using HTML CSS & JavaScript
@@ -10,3 +10,4 @@
 
 # ScrollReveal.org
 # https://www.kunkalabs.com/mixitup/docs/get-started/
+# Colors Idea go to this website [Colors Dopely](https://colors.dopely.top)
